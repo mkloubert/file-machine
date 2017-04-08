@@ -1,0 +1,5 @@
+**/*.map
+**/*.ts
+/.vscode
+/pushall.sh
+/tsconfig.json
